@@ -3,8 +3,8 @@
 
 Traveling, living between New York City and Shanghai, building stuff/data products and podcasting.
 
-- Blogging✍🏻 at [www.abouthongwu.xyz](www.abouthongwu.xyz)
-- Podcasting🎙 at [www.helloklyn.com](www.helloklyn.com)
+- Blogging✍🏻 at [www.abouthongwu.xyz](https://www.abouthongwu.xyz)
+- Podcasting🎙 at [www.helloklyn.com](https://www.helloklyn.com)
 
 ### 🎙 I do podcast casually
 ![](https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_nologo400/613747/613747-1612742207498-8cde60ea66851.jpg)
