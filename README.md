@@ -12,14 +12,11 @@ Traveling, living between New York City and Shanghai, building stuff/data produc
 
 - [Ad hoc Talk|随机聊 on Spotify](https://open.spotify.com/show/2KN34s3ANFb36WLgdyHFEZ?si=GYHPb8GzT4ODVTiDXcebpg&dl_branch=1)
 - [Ad hoc Talk|随机聊 on 小宇宙](https://www.xiaoyuzhoufm.com/podcast/5feb3a85dee9c1e16d5e4343?s=eyJ1IjogIjVmMTc5OTMyZTBmNWU3MjNiYmNiN2Q0ZiJ9)
-- [Ad hoc Talk|随机聊 on Apple Podcast](https://podcasts.apple.com/us/podcast/%E5%85%8B%E6%9E%97-%E9%9A%8F%E6%9C%BA%E8%81%8A-ad-hoc-talk/id1546496102)
+- [Ad hoc Talk|随机聊 on Apple Podcast](https://podcasts.apple.com/us/podcast/%E5%85%8B%E6%9E%97-%E9%9A%8F%E6%9C%BA%E8%81%8A-ad-hoc-talk/id1546496102)  
 
+[![](https://img.shields.io/badge/随机聊的电报频道-%23000000?style=flat-square&logo=telegram&labelColor=%2300A1D60)](https://t.me/helloklyn)
 
 ### 📮Feel free to friend me or contact me
-- Twitter: [@hongwuxyz](https://twitter.com/hongwuxyz)
-- Instagram: [@hongwuxyz](https://www.instagram.com/hongwuxyz/)
-- Clubhouse: [@hongwu](https://www.clubhouse.com/@hongwu)
-- Greenroom: [@hongwuxyz](https://www.spotify.com/us/greenroom/?_branch_match_id=952613053283418265&utm_source=Airdrop&utm_medium=ProfileView)
-- Bilibili哔哩哔哩: [hongwuxyz克林](https://space.bilibili.com/41049044/dynamic)
-- WeChat(微信): `helloklyn`
-![](assets/wechat-helloklyn-qr-code.JPG)
+[![](https://img.shields.io/badge/hongwuxyz克林-%23000000?style=flat-square&logo=twitter&labelColor=%2300A1D60)](https://twitter.com/hongwuxyz)
+[![](https://img.shields.io/badge/hongwuxyz克林-%23000000?style=flat-square&logo=instagram&labelColor=%2300A1D60)](https://instagram.com/hongwuxyz)
+[![](https://img.shields.io/badge/hongwuxyz克林-%23000000?style=flat-square&logo=bilibili&labelColor=%2300A1D60)](https://space.bilibili.com/41049044)
